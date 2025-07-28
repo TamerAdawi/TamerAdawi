@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi There, I'm Tamer 👋
 
-<!--
-**TamerAdawi/TamerAdawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 High school student from Israel | 🇮🇱 Arab-Israeli  
+💻 Learning Python & AI with strong C# background  
+🚀 Building: Chatbots, AI tools, and automations  
+📖 Currently working on: Code Testing AI-Agent  
 
-Here are some ideas to get you started:
+### 🔧 Languages & Tools:
+- 💡 C#, Python
+- 🧠 Learning
+- ⚙️ Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+Not Yer
+---
+📫 **Reach out or collaborate**: tameradwi2017@email.com 
