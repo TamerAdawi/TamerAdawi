@@ -11,6 +11,6 @@
 - ⚙️ Learning
 
 ### 🛠️ Projects
-Not Yer
+Not Yet
 ---
 📫 **Reach out or collaborate**: tameradwi2017@email.com 
